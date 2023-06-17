@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_button">18sp</dimen>
+    <dimen name="button">100dp</dimen>
+    <dimen name="margin_button">30dp</dimen>
+    <dimen name="email_icon">50dp</dimen>
+</resources>
